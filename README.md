@@ -1,2 +1,2 @@
 # iNeuron-Sessions
-iNeuron Trainingg Session Material
+iNeuron Training Session Material
